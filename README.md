@@ -9,4 +9,4 @@ Run:
 Python app.py
 ```
 
-[dashboard](https://raw.githubusercontent.com/amac-lfc/crypto-trading/main/img.png)
+![dashboard](https://raw.githubusercontent.com/amac-lfc/crypto-trading/main/img.png)
