@@ -10,3 +10,9 @@ Python app.py
 ```
 
 ![dashboard](https://raw.githubusercontent.com/amac-lfc/crypto-trading/main/img.png)
+
+--requirements
+* Pandas
+* Plotly
+* Transformers
+* Dash
